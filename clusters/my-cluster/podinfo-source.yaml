@@ -7,5 +7,6 @@ metadata:
 spec:
   interval: 1m0s
   ref:
-    branch: v6.x
-  url: https://github.com/stefanprodan/podinfo
+    branch: master
+  url: https://github.com/stefanprodan/podinfo.git
+  
